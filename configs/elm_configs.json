@@ -1,0 +1,5 @@
+{
+    "num_classes": 10,
+    "num_hidden_layers": 2048,
+    "input_length": 784
+}
